@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A polished Material Design 3 calculator with fluid animations, adaptive colors, dark theme support, and rounded touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
